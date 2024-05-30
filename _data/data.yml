@@ -1,15 +1,15 @@
 bio:
-  name: John Doe
-  title: An Awesome Developer
+  name: Alex Vall
+  title: Senior Software Engineer
   avatar: profile.jpg
-  email: john@doe.com
-  telephone: 012 345 6789
-  website: johndoe.blogger.com
-  linkedin: johndoe
-  github: johnnycoder
-  gitlab: johnnycoder
-  twitter: johnnytweeter
-  stackoverflow: 890226/johnnyststacker
+  email: alex.vall.mainou@gmail.com
+  telephone: Not Available
+  website:
+  linkedin: alex-vall
+  github: avall
+  gitlab:
+  twitter: Jandrinet
+  stackoverflow:
 
 summary:
   title: Career Profile
