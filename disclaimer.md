@@ -15,7 +15,7 @@ L’accesso al sito è completamente gratuito ma comporta l’accettazione delle
 
 Il presente sito non è un “prodotto editoriale diffuso al pubblico con periodicità regolare”, in quanto non viene aggiornato secondo scadenze predeterminate, bensì esclusivamente sulla base degli eventi ritenuti interessanti dall’autore. Mancando i requisiti della periodicità, della testata e la struttura, il presente sito si sottrae all’obbligo di registrazione di cui all’art. 5 L. 8 febbraio 1948 n. 47, né può essere in alcun modo ritenuto pubblicazione o periodico ai sensi delle leggi vigenti, avendo solo lo scopo di offrire uno spazio di riflessione personale su tematiche di interesse generale. Tutte le notizie citate hanno una fonte pubblica e sono da trattarsi come commenti e considerazioni alle notizie medesime. 
 
-Responsabile del sito web: Cristian Castellari, Imola, Italia (Codice Fiscale CSTCST71S30C265A)
+Responsabile del sito web: Alex Vall, Imola, Italia (Codice Fiscale CSTCST71S30C265A)
 
 <br> 
 

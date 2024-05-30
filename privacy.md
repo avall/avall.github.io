@@ -175,7 +175,7 @@ Le richieste vanno inoltrate al Titolare del trattamento.
 <hr>
 
 ### Soggetti del trattamento
-<i class="fa fa-handshake-o fa-3x fa-pull-left" aria-hidden="true" style="color: #337ab7;"></i>  Titolare del trattamento ai sensi delle leggi vigenti è l'amministratore del sito, Cristian Castellari, contattabile tramite i link indicati in [HOME PAGE]({{ site.url }}).
+<i class="fa fa-handshake-o fa-3x fa-pull-left" aria-hidden="true" style="color: #337ab7;"></i>  Titolare del trattamento ai sensi delle leggi vigenti è l'amministratore del sito, Alex Vall, contattabile tramite i link indicati in [HOME PAGE]({{ site.url }}).
  
 <hr>
 
