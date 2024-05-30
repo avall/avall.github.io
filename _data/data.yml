@@ -12,7 +12,7 @@ bio:
   stackoverflow:
 
 summary:
-  title: Principal Software Engineer
+  title: Senior Software Engineer
   description: |
     Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -25,7 +25,7 @@ summary:
 history:
   title: Experience
   roles:
-    - position: Lead Developer
+    - position: Principal Software Engineer
       company: Wefox Group
       location: Barcelona (Spain)
       time: Dec.2014 - Present
