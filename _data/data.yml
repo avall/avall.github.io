@@ -3,8 +3,8 @@ bio:
   title: Senior Software Engineer
   avatar: profile.jpg
   email: alex.vall.mainou@gmail.com
-  telephone:
-  website:
+#  telephone:
+#  website:
   linkedin: alex-vall-09a2b25
   github: avall
   gitlab:
@@ -141,8 +141,8 @@ history:
       description: |
         Monolith system (design and implementation) for Backend For Frontend (BFF) to provide services to Mobile / Web Apps.
 
-          - Bullet point
-          - Bullet point
+          - Decoupled microservices architecture into same Github repository.
+          - Enterprise Common library for all microservices.
 
         Microservice architecture (design and implementation) for backend core to deprecate Monolith system.
 
@@ -150,9 +150,9 @@ history:
           - Bullet point
       technologies:
         - name: Java 17
-        - name: Vue.js
-        - name: Webpack
-        - name: MongoDB
+        - name: Spring Framework (Boot, Cloud)
+        - name: Spring Integration
+        - name: Heroku Connect (Postgres)
 
       achivements: |
         Highlights here
@@ -161,9 +161,6 @@ history:
           - Sub Thing 1
 
 skills:
-  frontend:
-    - name: Vue.js
-      percentage: 30
   backend:
     - name: Java 17
       percentage: 90
@@ -197,6 +194,9 @@ skills:
       percentage: 75
     - name: Amazon Verified Permissions
       percentage: 10
+  frontend:
+    - name: Vue.js
+      percentage: 30
 
   other:
     - name: Linux (Debian &amp; Ubuntu)
