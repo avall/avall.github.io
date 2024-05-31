@@ -14,15 +14,17 @@ bio:
 summary:
   title: Senior Software Engineer
   description: |
-    Software Architect passionate about technology always looking for 
+    Software Engineer passionate about technology always looking for 
     the best solution in terms of performance, scalability, resilience and security. 
     
     I am continuously focused on improving & mechanizing as many processes as possible 
     within the software lifecycle by applying:\
         - Feature branch as strategy to reach the fastest way to work with multiple developers.
         - Github Actions to automate the CI/CD process.
-        - Hard & strong automatic code review (CodeClimate) to ensure the continuous delivery to production. 
-        - API First and automatic code generation (archetypes and conversion of OpenApi into source code) to follow best practices.
+        - Hard & strong automatic code review (CodeClimate) to ensure the 
+          quality and continuous delivery to production. 
+        - API First and automatic code generation (archetypes and 
+          conversion of OpenApi into source code) to follow best practices.
     
 
 history:
@@ -31,8 +33,11 @@ history:
     - position: Principal Software Engineer
       company: Wefox Group
       location: Barcelona (Spain)
-      time: Dec.2014 - Present
+      time: Jan.2023 - Present
       description: |
+        PaaS (Platform As a Service) to improve the relation between 
+        Distributors, Brokers, Manufacturers & Final Customers.
+        
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
