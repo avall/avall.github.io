@@ -14,13 +14,12 @@ bio:
 summary:
   title: Senior Software Engineer
   description: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+    Software Architect passionate about technology always looking for 
+    the best solution in terms of performance, scalability, resilience and security.. 
+    I have focused on mechanizing as many processes as possible within the software 
+    lifecycle by applying API First and automatic code generation 
+    (archetypes and conversion of OpenApi into source code).
+    
 
 history:
   title: Experience
