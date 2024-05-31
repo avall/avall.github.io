@@ -63,6 +63,7 @@ history:
                 <li>AWS API Gateway as Public gateway using lambda authorizers</li>
                 <li>Spring Cloud Gateway as domain gateways</li>
                 <li>RDS Postgres (as database) applying CQRS pattern (synchronized replicas to read/write)</li>
+                <li>Redis as distributed cache</li>
               </ul>
             </ul>
           </div>
@@ -94,6 +95,11 @@ history:
         * Automatic car claim evaluation using AI.
         * Deprecate legacy payout system & design automatic integration with finance.
 
+        Lead the Heroku Connect (sync Salesforce data with SQL database) deprecation project.
+        Design & implementation of a cheaper custom solution to reduce the high costs of Heroku Connect.
+
+        *   
+
       technologies:
         - name: Java
         - name: Spring Framework (Boot, Cloud)
@@ -107,11 +113,33 @@ history:
       location: Barcelona (Spain)
       time: March.2019 - Jan.2021
       description: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Microservice system (design and implementation) for Backend For Frontend (BFF) to provide services to Mobile / Web Apps.
+
+          - Bullet point
+          - Bullet point
+
+        Microservice system (design and implementation) for backend core to provide business rules related with the new Insurance Company called ONE.
+
+          - Bullet point
+          - Bullet point
+      technologies:
+        - name: JavaScript
+        - name: Vue.js
+        - name: Webpack
+        - name: MongoDB
+
+    - position: Senior Engineer
+      # page_break: true
+      company: Wefox Group
+      location: Barcelona (Spain)
+      time: Dec.2014 - March.2019
+      description: |
+        Monolith system (design and implementation) for Backend For Frontend (BFF) to provide services to Mobile / Web Apps.
+
+          - Bullet point
+          - Bullet point
+
+        Microservice system (design and implementation) for backend core to provide business rules related with the new Insurance Company called ONE.
 
           - Bullet point
           - Bullet point
