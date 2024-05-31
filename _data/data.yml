@@ -62,31 +62,23 @@ history:
                 <li>EKS (4 clusters) as container manager using Karpenter. Ingress per domain as Load Balancer.</li>
                 <li>AWS API Gateway as Public gateway using lambda authorizers</li>
                 <li>Spring Cloud Gateway as domain gateways</li>
-                <li>RDS Postgres as database applying CQRS pattern (synchronized replica to read)</li>
+                <li>RDS Postgres (as database) applying CQRS pattern (synchronized replicas to read/write)</li>
               </ul>
-              <li>Supports applying multiple schema update sequencially</li>
             </ul>
           </div>        
                 
         
-        * Build the architecture of the platform.
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        * Implementation of the foundations & architecture of the platform:
 
-          - Bullet point
-          - Bullet point
+          - API services using Hexagonal to ensure decoupled modules.
+          - Foundations library using Starter patterns & covering reactive (WebFlux).
+          - Database Schemas & RLS (definition & modifications) under Liquibase.
       technologies:
         - name: Java
-        - name: Spring
-        - name: Tomcat
-        - name: MySQL
+        - name: Spring Framework (Boot, Cloud)
+        - name: Python (AWS lambda authorizers)
+        - name: Postgres (RLS - Row Level Security)
+        - name: OPA (Open Policy Agent)
 
     - position: Senior Software Engineer
       # page_break: true
