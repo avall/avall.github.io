@@ -38,6 +38,24 @@ history:
         PaaS (Platform As a Service) to improve the relation between 
         Distributors, Brokers, Manufacturers & Final Customers.
         
+        * Lead the team to implement the foundations (control plane) of the platform.
+        * Design the multi-tenancy architecture of the platform taking care:
+          <div class="d-print-none" markdown="1">
+            <ul>
+              <li>Business OKR's to adopt the best solution in terms of performance & costs. The PaaS is a business based on economy of scale.</li>
+              <li>Transparently supports three databases; MySQL, MS-SQL, and Actian Zen (PSQL)</li>
+              <li>Automatically finds new, changed and removed tables, columns and indexes</li>
+              <li>Supports custom migrations written in Java or SQL</li>
+              <ul>
+                <li>i.e. Computing values for new columns from previous database versions</li>
+              </ul>
+              <li>Supports pre-flight checks and post-flight checks</li>
+              <li>Supports applying multiple schema update sequencially</li>
+            </ul>
+          </div>        
+                
+        
+        * Build the architecture of the platform.
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
