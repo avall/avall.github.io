@@ -25,10 +25,11 @@ summary:
     * Hard & strong automatic code review (CodeClimate) to ensure the 
       quality and continuous delivery to production. 
     * API First and automatic code generation (archetypes and 
-      conversion of OpenApi into source code) to follow best practices.
+      conversion of OpenApi into source code) to follow best practices & establish OpenApi as source of truth.
+    * API versioning based on the major version & different instances for them.
     * Powerful integration test (over 90% coverage) and API contract test for quality assurance.
     * Automation testing in staging environment to ensure the stability of the production environment.
-      A regression test is launched every weekend in production environment. 
+      An automatic regression test in production environment to guarantee uninterrupted service. 
 
 history:
   title: Experience
@@ -46,13 +47,20 @@ history:
           <div class="d-print-none" markdown="1">
             <ul>
               <li>Business OKR's to adopt the best solution in terms of performance & costs. The PaaS is a business based on economy of scale.</li>
-              <li>Data isolation in tenant level using Postgres-RLS (Row Level Security)Transparently supports three databases; MySQL, MS-SQL, and Actian Zen (PSQL)</li>
-              <li>Automatically finds new, changed and removed tables, columns and indexes</li>
-              <li>Supports custom migrations written in Java or SQL</li>
+              <li>Data isolation in tenant level using Postgres-RLS (Row Level Security)</li>
+              <li>Tenant & Identity context propagation using an extra header in the request</li>
+              <li>New authorisation approach decoupled from authentication using Open Policy Agent</li>
+              <li>SDK library to ensure consistent multi-tenancy adoption in all the domains.</li>
+              <li>Migration plan to adopt multi-tenancy pool model solution</li>
               <ul>
                 <li>i.e. Computing values for new columns from previous database versions</li>
               </ul>
-              <li>Supports pre-flight checks and post-flight checks</li>
+              <li>AWS infra definition to support multi-tenancy</li>
+              <ul>
+                <li>EKS as container manager using Karpenter. Ingress per domain as Load Balancer.</li>
+                <li>AWS API Gateway as Public gateway using lambda authorizers</li>
+                <li>Spring Cloud Gateway as domain gateways</li>
+              </ul>
               <li>Supports applying multiple schema update sequencially</li>
             </ul>
           </div>        
