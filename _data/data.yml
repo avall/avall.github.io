@@ -3,7 +3,7 @@ bio:
   title: Senior Software Engineer
   avatar: profile.jpg
   email: alex.vall.mainou@gmail.com
-  telephone: Not Available
+  telephone:
   website:
   linkedin: alex-vall-09a2b25
   github: avall
@@ -229,6 +229,8 @@ languages:
     proficiency: Professional
 
 interests:
+  - name: Home Automation
+    icon: fas fa-home
   - name: Table Tennis
     icon: fas fa-table-tennis
   - name: Open Water Swimming
@@ -236,12 +238,11 @@ interests:
   - name: Cycling
     icon: fas fa-biking
 
-
 organizations:
+  - name: Open University of Catalonia
+    link: https://www.uoc.edu
+    date: 2000
   - name: CTT Ciutadella
     link: https://www.instagram.com/c.t.t.ciutadella/
     date: 2023
 
-  - name: Open University of Catalonia
-    link: https://www.uoc.edu
-    date: 2000
