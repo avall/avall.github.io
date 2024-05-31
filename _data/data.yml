@@ -66,13 +66,15 @@ history:
               </ul>
             </ul>
           </div>        
-                
         
         * Implementation of the foundations & architecture of the platform:
-
-          - API services using Hexagonal to ensure decoupled modules.
-          - Foundations library using Starter patterns & covering reactive (WebFlux).
-          - Database Schemas & RLS (definition & modifications) under Liquibase.
+          <div class="d-print-none" markdown="1">
+            <ul>
+              <li>API services using Hexagonal to ensure decoupled modules.</li>
+              <li>Foundations library using Starter patterns & covering reactive (WebFlux).</li>
+              <li>Database Schemas & RLS (definition & modifications) under Liquibase.</li>
+            </ul>
+          </div>
       technologies:
         - name: Java
         - name: Spring Framework (Boot, Cloud)
@@ -80,30 +82,31 @@ history:
         - name: Postgres (RLS - Row Level Security)
         - name: OPA (Open Policy Agent)
 
-    - position: Senior Software Engineer
+    - position: Principal Software Engineer (Claims domain)
       # page_break: true
-      company: Google
-      location: London
-      time: 2014 - 2015
+      company: Wefox Group
+      location: Barcelona (Spain)
+      time: Jan.2021 - Jan.2023
       description: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Lead the Claims team to accomplish these goals:
 
-          - Bullet point
-          - Bullet point
+        * New Claims API using ontology in the OpenApi damage (coverage extension) definition. 
+        * Automatic fraud detection using AI.
+        * Automatic car claim evaluation using AI.
+        * Deprecate legacy payout system & design automatic integration with finance.
+
       technologies:
-        - name: Go
         - name: Java
-        - name: Spring
-        - name: Kubernetes
+        - name: Spring Framework (Boot, Cloud)
+        - name: AWS Lambdas
+        - name: AWS Step Functions
+        - name: Kafka
 
-    - position: UI Developer
-      company: Amazon
-      location: London
-      time: 2012 - 2014
+    - position: Senior Engineer
+      # page_break: true
+      company: Wefox Group
+      location: Barcelona (Spain)
+      time: March.2019 - Jan.2021
       description: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
