@@ -48,6 +48,7 @@ history:
           <div class="d-print-none" markdown="1">
             <ul>
               <li>Business OKR's to adopt the best solution in terms of performance & costs. The PaaS is a business based on economy of scale.</li>
+                      <li>Create RFC's to adopt the best solution in terms of performance, scalability, resilience and security.</li>
               <li>Data isolation in tenant level using Postgres-RLS (Row Level Security)</li>
               <li>Tenant & Identity context propagation using an extra header in the request</li>
               <li>New authorisation approach decoupled from authentication using custom new Permission API &  Open Policy Agent</li>
@@ -129,8 +130,8 @@ history:
       technologies:
         - name: Java 17
         - name: Spring Framework (Boot, Cloud)
-        - name: Webpack
-        - name: MongoDB
+        - name: GraphQL (Apollo)
+        - name: RDS Postgres
 
     - position: Senior Engineer
       # page_break: true
@@ -161,26 +162,24 @@ history:
 
 skills:
   frontend:
-    - name: JavaScript
-      percentage: 70
-    - name: HTML5
-      percentage: 60
-    - name: Sass
-      percentage: 50
+    - name: Vue.js
+      percentage: 30
   backend:
-    - name: Java 8
-      percentage: 100
-    - name: Bash
+    - name: Java 17
+      percentage: 90
+    - name: Spring Framework
       percentage: 95
     - name: Python
+      percentage: 60
+    - name: Typescript
+      percentage: 60
+    - name: UML
       percentage: 80
-    - name: Flask &amp; SQLAlchemy
-      percentage: 80
-    - name: Ruby
+    - name: Kubernetes
       percentage: 50
-    - name: Go
+    - name: Open Policy Agent
       percentage: 15
-    - name: Elixir
+    - name: Git actions
       percentage: 10
     - name: C/C++
       percentage: 5
@@ -191,7 +190,7 @@ skills:
     - name: Windows 10
     - name: Sketch
     - name: JIRA
-    - name: Scrum
+    - name: Scrum (agile)
     - name: Docker
     - name: Vagrant
 
