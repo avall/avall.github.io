@@ -26,6 +26,9 @@ summary:
       quality and continuous delivery to production. 
     * API First and automatic code generation (archetypes and 
       conversion of OpenApi into source code) to follow best practices.
+    * Powerful integration test (over 90% coverage) and API contract test for quality assurance.
+    * Automation testing in staging environment to ensure the stability of the production environment.
+      A regression test is launched every weekend in production environment. 
 
 history:
   title: Experience
@@ -43,7 +46,7 @@ history:
           <div class="d-print-none" markdown="1">
             <ul>
               <li>Business OKR's to adopt the best solution in terms of performance & costs. The PaaS is a business based on economy of scale.</li>
-              <li>Transparently supports three databases; MySQL, MS-SQL, and Actian Zen (PSQL)</li>
+              <li>Data isolation in tenant level using Postgres-RLS (Row Level Security)Transparently supports three databases; MySQL, MS-SQL, and Actian Zen (PSQL)</li>
               <li>Automatically finds new, changed and removed tables, columns and indexes</li>
               <li>Supports custom migrations written in Java or SQL</li>
               <ul>
