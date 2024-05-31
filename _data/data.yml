@@ -169,73 +169,79 @@ skills:
       percentage: 90
     - name: Spring Framework
       percentage: 95
+    - name: Kotlin
+      percentage: 75
     - name: Python
-      percentage: 60
+      percentage: 40
     - name: Typescript
-      percentage: 60
+      percentage: 55
+    - name: PostgreSQL
+      percentage: 90
+    - name: MongoDb
+      percentage: 75
+    - name: Kafka
+      percentage: 75
+    - name: AWS Step Functions
+      percentage: 75
+    - name: Camunda BPM
+      percentage: 65
+    - name: OpenApi
+      percentage: 95
+    - name: Git actions
+      percentage: 80
     - name: UML
       percentage: 80
     - name: Kubernetes
       percentage: 50
     - name: Open Policy Agent
-      percentage: 15
-    - name: Git actions
+      percentage: 75
+    - name: Amazon Verified Permissions
       percentage: 10
-    - name: C/C++
-      percentage: 5
 
   other:
-    - name: Linux (Debian &amp; Fedora variants)
+    - name: Linux (Debian &amp; Ubuntu)
     - name: macOS
     - name: Windows 10
-    - name: Sketch
     - name: JIRA
     - name: Scrum (agile)
     - name: Docker
-    - name: Vagrant
 
 education:
-  - degree: MSc in Computer Science
-    name: University of London
-    time: 2011 - 2012
+  - degree: MS in Computer Science
+    name: Open University of Catalonia (UOC)
+    time: 2000 - 2006
     gpa: 3.21
-  - degree: BSc in Applied Mathematics
-    name: Bristol University
-    time: 2007 - 2011
+  - degree: Master
+    name: CCNA (Cisco)
+    time: 2003 - 2003
     gpa: 3.21
 
 awards:
-  - name: Apple Design Award 2017
-    description: |
-      UI Design for my cool app
-  - name: Best Coder 2019
-    description: Competition at a place
 
 languages:
   - name: English
-    proficiency: Native
-  - name: French
-    proficiency: Professional
+    proficiency: Technical
+  - name: Italian
+    proficiency: Advanced
   - name: Spanish
+    proficiency: Professional
+  - name: Catalan
     proficiency: Professional
 
 interests:
-  - name: Hiking
+  - name: Table Tennis
     icon: fas fa-hiking
-  - name: Fishing
+  - name: Open Water Swimming
     icon: fas fa-fish
   - name: Cycling
     icon: fas fa-biking
 
 
 organizations:
-  - name: Rotary
-    link: http://www.rotary.org
-    date: 2010
+  - name: CTT Ciutadella
+    link: https://www.instagram.com/c.t.t.ciutadella/
+    date: 2023
 
-  - name: Mainstreet
-    link: https://www.mainstreet.org
-    date: 2011
-
-  - name: Makers
-    date: 2014
+  - name: Open University of Catalonia
+    link: https://www.uoc.edu
+    date: 2000
