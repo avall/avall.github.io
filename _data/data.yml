@@ -17,8 +17,8 @@ summary:
     Software Architect passionate about technology always looking for 
     the best solution in terms of performance, scalability, resilience and security. 
     
-    I am focused on improving & mechanizing as many processes as possible within the software 
-    lifecycle by applying:
+    I am continuously focused on improving & mechanizing as many processes as possible 
+    within the software lifecycle by applying:
         - Feature branch as strategy to reach the fastest way to work with multiple developers.
         - Github Actions to automate the CI/CD process.
         - Hard & strong automatic code review (CodeClimate) to ensure the continuous delivery to production. 
