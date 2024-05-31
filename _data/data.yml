@@ -65,8 +65,7 @@ history:
                 <li>RDS Postgres (as database) applying CQRS pattern (synchronized replicas to read/write)</li>
               </ul>
             </ul>
-          </div>        
-        
+          </div>
         * Implementation of the foundations & architecture of the platform:
           <div class="d-print-none" markdown="1">
             <ul>
