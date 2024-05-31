@@ -19,10 +19,11 @@ summary:
     
     I am focused on improving & mechanizing as many processes as possible within the software 
     lifecycle by applying:
-        * Feature branch as strategy to reach the fastest way to work with multiple developers.
-        * Github Actions to automate the CI/CD process.
-        * Hard & strong automatic code review (CodeClimate) to ensure the continuous delivery to production. 
-        * API First and automatic code generation (archetypes and conversion of OpenApi into source code) to follow best practices.
+    
+        - Feature branch as strategy to reach the fastest way to work with multiple developers.
+        - Github Actions to automate the CI/CD process.
+        - Hard & strong automatic code review (CodeClimate) to ensure the continuous delivery to production. 
+        - API First and automatic code generation (archetypes and conversion of OpenApi into source code) to follow best practices.
     
 
 history:
