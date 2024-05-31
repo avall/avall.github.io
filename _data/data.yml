@@ -90,7 +90,7 @@ history:
       description: |
         Lead the Claims team to accomplish these goals:
 
-        * New Claims API using ontology in the OpenApi damage (coverage extension) definition. 
+        * New Claims API using ontology in the OpenApi definition of the damage (coverage extension) syntax definition. 
         * Automatic fraud detection using AI.
         * Automatic car claim evaluation using AI.
         * Deprecate legacy payout system & design automatic integration with finance.
@@ -98,7 +98,9 @@ history:
         Lead the Heroku Connect (sync Salesforce data with SQL database) deprecation project.
         Design & implementation of a cheaper custom solution to reduce the high costs of Heroku Connect.
 
-        *   
+        * Bidirectional sync between Salesforce and RDS Postgres.
+        * Kafka as a broker to work in async way.
+        * Apache Dbzium kafka connector as CDC to synchronize from Postgres to Salesforce. 
 
       technologies:
         - name: Java
