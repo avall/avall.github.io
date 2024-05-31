@@ -29,7 +29,8 @@ summary:
     * API versioning based on the major version & different instances for them.
     * Powerful integration test (over 90% coverage) and API contract test for quality assurance.
     * Automation testing in staging environment to ensure the stability of the production environment.
-      An automatic regression test in production environment to guarantee uninterrupted service. 
+      An automatic regression test in production environment to guarantee uninterrupted service.
+    * Notifications on Slack and Personal Mobiles to guarantee 24/7 service.
 
 history:
   title: Experience
@@ -76,10 +77,11 @@ history:
             </ul>
           </div>
       technologies:
-        - name: Java
+        - name: Java 17
         - name: Spring Framework (Boot, Cloud)
         - name: Python (AWS lambda authorizers)
         - name: Postgres (RLS - Row Level Security)
+        - name: Redis (distributed cache)
         - name: OPA (Open Policy Agent)
 
     - position: Principal Software Engineer (Claims domain)
@@ -100,10 +102,10 @@ history:
 
         * Bidirectional sync between Salesforce and RDS Postgres.
         * Kafka as a broker to work in async way.
-        * Apache Dbzium kafka connector as CDC to synchronize from Postgres to Salesforce. 
+        * Apache Debezium kafka connector as CDC to synchronize from Postgres to Salesforce. 
 
       technologies:
-        - name: Java
+        - name: Java 17
         - name: Spring Framework (Boot, Cloud)
         - name: AWS Lambdas
         - name: AWS Step Functions
@@ -115,18 +117,18 @@ history:
       location: Barcelona (Spain)
       time: March.2019 - Jan.2021
       description: |
-        Microservice system (design and implementation) for Backend For Frontend (BFF) to provide services to Mobile / Web Apps.
+        Microservice system (design and implementation) for 'Backend For Frontend (BFF)' to provide services to Mobile / Web Apps.
 
-          - Bullet point
-          - Bullet point
+          - GraphQL API to connect Mobile and Web Apps with BFF.
+          - gRPC (protobuf) to connect BFF against Core Microservices. 
 
-        Microservice system (design and implementation) for backend core to provide business rules related with the new Insurance Company called ONE.
+        Microservice architecture (design and implementation) for backend core to provide business rules related with the new Insurance Company called ONE.
 
-          - Bullet point
-          - Bullet point
+          - gRPC (protobuf) for synchronous communication between Microservices.
+          - Step Functions and Camunda BPM for orchestration and Business Processes.
       technologies:
-        - name: JavaScript
-        - name: Vue.js
+        - name: Java 17
+        - name: Spring Framework (Boot, Cloud)
         - name: Webpack
         - name: MongoDB
 
@@ -141,12 +143,12 @@ history:
           - Bullet point
           - Bullet point
 
-        Microservice system (design and implementation) for backend core to provide business rules related with the new Insurance Company called ONE.
+        Microservice architecture (design and implementation) for backend core to deprecate Monolith system.
 
           - Bullet point
           - Bullet point
       technologies:
-        - name: JavaScript
+        - name: Java 17
         - name: Vue.js
         - name: Webpack
         - name: MongoDB
