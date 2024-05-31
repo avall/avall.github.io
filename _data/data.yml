@@ -230,14 +230,14 @@ languages:
 
 interests:
   - name: Table Tennis
-    icon: fas fa-hiking
+    icon: fas fa-table-tennis
   - name: Open Water Swimming
-    icon: fas fa-fish
+    icon: fas fa-swimming
   - name: Cycling
     icon: fas fa-biking
 
 
-links:
+organizations:
   - name: CTT Ciutadella
     link: https://www.instagram.com/c.t.t.ciutadella/
     date: 2023
