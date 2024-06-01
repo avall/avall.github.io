@@ -210,11 +210,11 @@ education:
   - degree: MS in Computer Science
     name: Open University of Catalonia (UOC)
     time: 2000 - 2006
-    gpa: 3.21
+    gpa: 8.5
   - degree: Master
     name: CCNA (Cisco)
     time: 2003 - 2003
-    gpa: 3.21
+    gpa: 9.5
 
 awards:
 
