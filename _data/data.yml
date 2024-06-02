@@ -97,20 +97,24 @@ history:
         * Automatic fraud detection using AI.
         * Automatic car claim evaluation using AI.
         * Deprecate legacy payout system & design automatic integration with finance.
+        * Google AI Dialogflow to facilitate the user's input of claims.
+
 
         Lead the Heroku Connect (sync Salesforce data with SQL database) deprecation project.
         Design & implementation of a cheaper custom solution to reduce the high costs of Heroku Connect.
 
         * Bidirectional sync between Salesforce and RDS Postgres.
         * Kafka as a broker to work in async way.
-        * Apache Debezium kafka connector as CDC to synchronize from Postgres to Salesforce. 
+        * Apache Debezium with kafka connector (as CDC) to synchronize from Postgres to Salesforce. 
 
       technologies:
         - name: Java 17
         - name: Spring Framework (Boot, Cloud)
         - name: AWS Lambdas
         - name: AWS Step Functions
-        - name: Kafka
+        - name: Apache Kafka
+        - name: Apache Debezium
+        - name: Google Dialogflow Chatbot (AI)
 
     - position: Senior Engineer
       # page_break: true
@@ -118,20 +122,29 @@ history:
       location: Barcelona (Spain)
       time: March.2019 - Jan.2021
       description: |
-        Microservice system (design and implementation) for 'Backend For Frontend (BFF)' to provide services to Mobile / Web Apps.
+        Design a common Hexagonal Architecture for all the Microservices implementations.
+        
+        * Archetype for Maven lifecycle tool.
+        
+        Microservice architecture (design and implementation) for 'Backend For Frontend (BFF)' to provide services to Mobile / Web Apps.
 
-          - GraphQL API to connect Mobile and Web Apps with BFF.
-          - gRPC (protobuf) to connect BFF against Core Microservices. 
+        * GraphQL API to connect Mobile and Web Apps with BFF.
+        * gRPC (protobuf) to connect BFF against Core Microservices.
 
         Microservice architecture (design and implementation) for backend core to provide business rules related with the new Insurance Company called ONE.
 
-          - gRPC (protobuf) for synchronous communication between Microservices.
-          - Step Functions and Camunda BPM for orchestration and Business Processes.
+        * Step Functions and Camunda BPM for orchestration and Business Processes. Using BPMN notation. Claim coverage validation, Fraud detection. Calculate the costs of any claim.            
+        * gRPC (protobuf) for synchronous communication between Microservices.
+        * Apache Kafka as a broker to work in async way.
+
       technologies:
         - name: Java 17
         - name: Spring Framework (Boot, Cloud)
         - name: GraphQL (Apollo)
         - name: RDS Postgres
+        - name: Apache Kafka
+        - name: Camunda BPM
+        - name: gRPC (protobuf)
 
     - position: Senior Engineer
       # page_break: true
@@ -139,20 +152,20 @@ history:
       location: Barcelona (Spain)
       time: Dec.2014 - March.2019
       description: |
-        Monolith system (design and implementation) for Backend For Frontend (BFF) to provide services to Mobile / Web Apps.
+        First IOS Mobile App for Switzerland market to facilitate the switch process between Insurance Companies.
 
-          - Decoupled microservices architecture into same Github repository.
-          - Enterprise Common library for all microservices.
+        * Decoupled microservices architecture into same Github repository.
+        * Enterprise Java (Spring Extension) Common library for all microservices. Simplifying dependencies.
 
-        Microservice architecture (design and implementation) for backend core to deprecate Monolith system.
+        Monolith architecture (design and implementation) for Backend For Frontend.
 
-          - Bullet point
-          - Bullet point
+        * Design taking care the OKR's & low budget. 
+        * RabbitMq for async operations.
       technologies:
-        - name: Java 17
+        - name: Java 11
         - name: Spring Framework (Boot, Cloud)
         - name: Spring Integration
-        - name: Heroku Connect (Postgres)
+        - name: Heroku Connect (Sync between Salesforce & Postgres)
 
       achivements: |
         Highlights here
@@ -178,7 +191,7 @@ skills:
       percentage: 90
     - name: MongoDb
       percentage: 75
-    - name: Kafka
+    - name: Apache Kafka
       percentage: 75
     - name: AWS Step Functions
       percentage: 75
