@@ -77,3 +77,15 @@ img{
 </style>
 <script type="text/javascript" src="particles.js"></script>
 <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+<script>
+  $(document).ready(function (){
+    $.i18n.init({
+      resGetPath: 'static/locales/__lng__.json',
+      load: 'unspecific',
+      fallbackLng: false,
+      lng: 'en'
+    }, function (t){
+      $('#i18_title').i18n();
+    });
+  });
+</script>
