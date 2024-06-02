@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Quest KACE, Fortinet NSE4, VMware vSphere, Active Directory, Windows Server, IBM Notes/Domino, Citrix XenApp, Linux/Shell, WordPress, Git, GitHub, HTML/CSS, Jekyll, ITIL
-percentage: 99, 100, 90, 95, 90, 80, 85, 90, 85, 70, 80, 65, 75, 85
+aspects: Spring Boot, Spring Cloud, Java 17, Kotlin, Python, Typescript, PostgreSQL, MongoDb, Apache Kafka, AWS Step Functions, Camunda BPM, OpenApi, Git actions, UML, Kubernetes, Open Policy Agent, Amazon Verified Permissions
+percentage: 95, 95, 90, 75, 40, 55, 90, 75, 75, 75, 65, 95, 80, 80, 50, 75, 10
