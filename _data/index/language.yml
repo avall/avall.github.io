@@ -8,7 +8,7 @@
 #- locale: en
 #  flag: /static/assets/img/flags/United-States.png
 
-languages:
+#languages:
   - locale: 'en'
     flag: 'static/assets/img/flags/United-States.png'
   - locale: 'es'
