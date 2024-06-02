@@ -209,6 +209,8 @@ skills:
       percentage: 75
     - name: Amazon Verified Permissions
       percentage: 10
+    - name: Salesforce
+      percentage: 50
   frontend:
     - name: Vue.js
       percentage: 30
