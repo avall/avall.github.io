@@ -290,7 +290,7 @@ skills:
     - name: Open Policy Agent
       percentage: 75
     - name: Amazon Verified Permissions
-      percentage: 10
+      percentage: 45
     - name: Salesforce
       percentage: 50
   frontend:
