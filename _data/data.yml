@@ -193,12 +193,14 @@ history:
         * Possibility to work offline. Background synchronization. 
         * Salesforce integration using a Java middleware (Backend For Frontend). 
 
-        BCA (British Car Auctions). Shoppers use the app to confirm bets placed by the moderator.
+        BCA (British Car Auctions). 
+        Shoppers use the app to confirm bets placed by the moderator.
 
         * IOS Mobile App (ipad) to automate car auctions. Online App using custom gestures. 
         * Viper architecture as a design pattern (View, Interactor, Presenter & Router).
 
-        BCP (Central Bank of Peru). IOS Mobile App (ipad, iphone) that automates all daily tasks of any end user.
+        BCP (Central Bank of Peru). 
+        IOS Mobile App (ipad, iphone) that automates all daily tasks of any end user.
 
         * Viper architecture as a design pattern (View, Interactor, Presenter & Router).
       technologies:
@@ -217,13 +219,15 @@ history:
       location: Barcelona (Spain)
       time: Jun.2008 - May.2012
       description: |
-        B2B IOS Mobile App (ipad) for Colomer (Revlon - cosmetics). Revlon's sales team uses the app to sell in hairdressing salons.
+        B2B IOS Mobile App (ipad) for Colomer (Revlon - cosmetics). 
+        Revlon's sales team uses the app to sell in hairdressing salons.
 
         * Viper architecture as a design pattern (View, Interactor, Presenter & Router).
         * Possibility to work offline. Background synchronization. 
         * SAP integration using a Java middleware (Backend For Frontend). 
 
-        Backend Application (Technotree) - Helsinki (Finland). Messaging Server for Telecommunications Operator (Swisscom, Sonera).
+        Backend Application (Technotree) - Helsinki (Finland). 
+        Messaging Server for Telecommunications Operator (Swisscom, Sonera).
         
         * Voice mailbox (iphone), Video mailbox, SMS, Streaming, Alarms, Notifications
         * Developed using JAVA open source.
