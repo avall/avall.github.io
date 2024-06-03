@@ -122,6 +122,11 @@ history:
       location: Barcelona (Spain)
       time: March.2019 - Jan.2021
       description: |
+        API first adoption as a methodology to work.
+        
+        * Automatic code generation for DTO's & API controllers.
+        * "Feature branch" as strategy to reach the fastest way to work with multiple developers.
+        
         Design a common Hexagonal Architecture for all the Microservices implementations.
         
         * Archetype for Maven lifecycle tool.
@@ -152,26 +157,90 @@ history:
       location: Barcelona (Spain)
       time: Dec.2014 - March.2019
       description: |
-        First IOS Mobile App for Switzerland market to facilitate the switch process between Insurance Companies.
+        IOS Mobile App for Switzerland market to facilitate the switch process between Insurance Companies.
 
-        * Decoupled microservices architecture into same Github repository.
-        * Enterprise Java (Spring Extension) Common library for all microservices. Simplifying dependencies.
+        * Viper architecture as a design pattern (View, Interactor, Presenter & Router). 
 
         Monolith architecture (design and implementation) for Backend For Frontend.
 
         * Design taking care the OKR's & low budget. 
         * RabbitMq for async operations.
+        * Enterprise Java (Spring Extension) Common library for all microservices. Simplifying dependencies.
+        * Decoupled microservices architecture into same Github repository.
       technologies:
+        - name: Swift
+        - name: Cocoapods
         - name: Java 11
         - name: Spring Framework (Boot, Cloud)
         - name: Spring Integration
         - name: Heroku Connect (Sync between Salesforce & Postgres)
 
-      achivements: |
-        Highlights here
-        * Thing 1
-        * Thing 2
-          - Sub Thing 1
+#      achivements: |
+#        Highlights here
+#        * Thing 1
+#        * Thing 2
+#          - Sub Thing 1
+
+    - position: Mobile Engineer
+      # page_break: true
+      company: Ameu8 (Everis)
+      location: Barcelona (Spain)
+      time: Jun.2012 - Nov.2014
+      description: |
+        B2B IOS Mobile App (ipad) for Monsanto (South Africa market).
+
+        * Viper architecture as a design pattern (View, Interactor, Presenter & Router).
+        * Possibility to work offline. Background synchronization. 
+        * Salesforce integration using a Java middleware (Backend For Frontend). 
+
+        BCA (British Car Auctions). Shoppers use the app to confirm bets placed by the moderator.
+
+        * IOS Mobile App (ipad) to automate car auctions. Online App using custom gestures. 
+        * Viper architecture as a design pattern (View, Interactor, Presenter & Router).
+
+        BCP (Central Bank of Peru). IOS Mobile App (ipad, iphone) that automates all daily tasks of any end user.
+
+        * Viper architecture as a design pattern (View, Interactor, Presenter & Router).
+      technologies:
+        - name: Swift
+        - name: ObjectiveC
+        - name: Cocoapods
+        - name: SQLite
+        - name: Java 11
+        - name: Spring Framework (Boot)
+        - name: Spring Integration
+        - name: Salesforce
+
+    - position: Senior system Analyst
+      # page_break: true
+      company: Accenture
+      location: Barcelona (Spain)
+      time: Jun.2008 - May.2012
+      description: |
+        B2B IOS Mobile App (ipad) for Colomer (Revlon - cosmetics). Revlon's sales team uses the app to sell in hairdressing salons.
+
+        * Viper architecture as a design pattern (View, Interactor, Presenter & Router).
+        * Possibility to work offline. Background synchronization. 
+        * SAP integration using a Java middleware (Backend For Frontend). 
+
+        Backend Application (Technotree) - Helsinki (Finland). Messaging Server for Telecommunications Operator (Swisscom, Sonera).
+        
+        * Voice mailbox, Video mailbox, SMS, Streaming, Alarms, Notifications, iphone support ....
+        * Developed using JAVA open source.
+
+      technologies:
+        - name: Swift
+        - name: ObjectiveC
+        - name: Cocoapods
+        - name: SQLite
+        - name: Java 8
+        - name: Spring Framework
+        - name: JAX-WS-RS (cxf)
+        - name: Hibernate
+        - name: JBOSS
+        - name: ESB (under JBOSS) as process orchestrator.
+
+
 
 skills:
   backend:
@@ -259,6 +328,12 @@ organizations:
   - name: Open University of Catalonia
     link: https://www.uoc.edu
     date: 2000
+  - name: Baeldung
+    link: https://www.baeldung.com/
+    date: 2014
+  - name: ByebyteGo
+    link: https://bytebytego.com/
+    date: 2023
   - name: CTT Ciutadella
     link: https://www.instagram.com/c.t.t.ciutadella/
     date: 2023
