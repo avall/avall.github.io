@@ -13,7 +13,7 @@
   },
   "about_me":{
     "about_me": "Sobre mi",
-    "des": "Soy arquitecto de software enfocado en backend. Tengo experiencia en Java (Spring Framework - Boot, Cloud), Kotlin y kafka. Siempre estoy muy interesado en buscar soluciones a nivel de infraestructura en lugar de implementaciones personalizadas. Cualquier solución a nivel de infraestructura es casi siempre mejor que una solución personalizada."
+    "des": "Soy arquitecto de software enfocado en backend. Tengo experiencia en arquitecturas de Microservicios desarrolladas en Java (Spring Framework - Boot, Cloud), Kotlin y kafka (async). Siempre estoy muy focalizado en buscar soluciones a nivel de infraestructura (Camunda para orquestación o OPA para manejar políticas de autorización) en lugar de implementaciones personalizadas. Cualquier solución a nivel de infraestructura suele ser mejor que una implementación personalizada."
   },
   "skills":{
     "my_skills": "Capacidades"
