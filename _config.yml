@@ -74,11 +74,9 @@ author:  # change following line to your infomation.
   skill_icon1:
     - name: fa-java
     - name: fa-kotlin
-    - name: fa-spring
   skill_icon2:
-    - name: fa-aws
+    - name: fa-spring
     - name: fa-postgres
-    - name: fa-kubernetes
   desc: ""
 
 # comment
