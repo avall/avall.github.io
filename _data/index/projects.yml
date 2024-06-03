@@ -37,7 +37,7 @@
 
 - name: This website on Github
   gh_user: avall
-  repo: avall.github.io/jandrinet
+  repo: github.com/avall/jandrinet
   img: /static/assets/img/landing/me.jpg
   desc: Il repository GitHub su cui viene sviluppato questo sito
   i18n: avall-github
