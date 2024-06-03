@@ -3,28 +3,10 @@
   first_name:
   desc:
   website: https://avall.github.io/jandrinet
-  email:
+  email: alex.vall.mainou@gmail.com
 
-- last_name: Open University of Catalonia
-  first_name: 
-  desc: UOC
-  website: https://www.uoc.edu
-  email: avall@uoc.edu
-
-- last_name: Baeldung
+- last_name: CV / Resume
   first_name:
   desc:
-  website: https://www.baeldung.com
-  email: coo@google.com
-
-- last_name: ByebyteGo
-  first_name:
-  desc:
-  website: https://bytebytego.com
-  email:
-
-- last_name: CTT Ciutadella
-  first_name:
-  desc:
-  website: https://www.instagram.com/c.t.t.ciutadella
-  email:
+  website: https://avall.github.io
+  email: alex.vall.mainou@gmail.com
