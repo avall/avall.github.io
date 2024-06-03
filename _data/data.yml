@@ -338,6 +338,9 @@ interests:
     icon: fas fa-biking
 
 organizations:
+  - name: About Me
+    link: https://avall.github.io/jandrinet
+    date: 2024
   - name: Open University of Catalonia
     link: https://www.uoc.edu
     date: 2000
