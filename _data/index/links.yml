@@ -1,18 +1,30 @@
 # links section data
-- last_name: Name 1
+- last_name: About Me
   first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+  desc:
+  website: https://avall.github.io/jandrinet
+  email:
 
-- last_name: Skyblog
+- last_name: Open University of Catalonia
   first_name: 
-  desc: My website
-  website: https://www.skyflash.it
-  email: c.castellari@gmail.com
+  desc: UOC
+  website: https://www.uoc.edu
+  email: avall@uoc.edu
 
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
+- last_name: Baeldung
+  first_name:
+  desc:
+  website: https://www.baeldung.com
   email: coo@google.com
+
+- last_name: ByebyteGo
+  first_name:
+  desc:
+  website: https://bytebytego.com
+  email:
+
+- last_name: CTT Ciutadella
+  first_name:
+  desc:
+  website: https://www.instagram.com/c.t.t.ciutadella
+  email:
