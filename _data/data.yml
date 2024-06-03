@@ -75,16 +75,22 @@ history:
               <li>API services using Hexagonal to ensure decoupled modules.</li>
               <li>Foundations library using Starter patterns & covering reactive (WebFlux).</li>
               <li>Database Schemas & RLS (definition & modifications) under Liquibase.</li>
-              <li>Apache Debezium as CDC to inject data in the Data Lake.</li>
+              <li>Apache Debezium as CDC to inject data in the Data Lake using Kafka connectors and Kafka Streams.</li>
+              <li>JOLT to transform JSON's.</li>
             </ul>
           </div>
       technologies:
         - name: Java 17
         - name: Spring Framework (Boot, Cloud)
         - name: Python (AWS lambda authorizers)
-        - name: Postgres (RLS - Row Level Security)
+        - name: AWS RDS Postgres (RLS - Row Level Security)
         - name: Redis (distributed cache)
         - name: OPA (Open Policy Agent)
+        - name: AWS Lambda / Step Functions
+        - name: AWS API Gateway
+        - name: AWS EKS
+        - name: JOLT
+
 
     - position: Principal Software Engineer (Claims domain)
       # page_break: true
