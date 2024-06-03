@@ -6,14 +6,14 @@
   url: https://github.com/kace-sma-tools
   img: /static/assets/img/landing/kacesmatools.png
   desc: Idee, script e suggerimenti utili per Quest Kace Systems Management Appliace (precedentmente noto come K1000) 
-  #i18n: kace-sma-tools
+  i18n: kace-sma-tools
 
 - name: K1000 Database Queries
   gh_user: KACE-SMA-Tools
   repo: K1000-Database-Queries
   img: /static/assets/img/landing/development.png
   desc:  Una collezione di queries MySQL per Il KACE 1000 (Quest Kace Systems Management Appliance)
-  #i18n: k1000-database-queries
+  i18n: k1000-database-queries
 
 - name: IPUI to IPEI
   gh_user: Skyflash
@@ -33,11 +33,11 @@
   repo: morrowind-italian-itp-translation
   img: /static/assets/img/landing/morrowind.png
   desc: La traduzione in Italiano di Morrowind, Tribunal e Bloodmoon - A cura dell'ITP
-  #i18n: morrowind-translation
+  i18n: morrowind-translation
 
 - name: This website on Github
-  gh_user: Skyflash
-  repo: skyflash.github.io
+  gh_user: avall
+  repo: avall.github.io/jandrinet
   img: /static/assets/img/landing/me.jpg
   desc: Il repository GitHub su cui viene sviluppato questo sito
-  #i18n: skyflash-github
+  i18n: skyflash-github
