@@ -225,7 +225,7 @@ history:
 
         Backend Application (Technotree) - Helsinki (Finland). Messaging Server for Telecommunications Operator (Swisscom, Sonera).
         
-        * Voice mailbox, Video mailbox, SMS, Streaming, Alarms, Notifications, iphone support ....
+        * Voice mailbox (iphone), Video mailbox, SMS, Streaming, Alarms, Notifications
         * Developed using JAVA open source.
 
       technologies:
@@ -250,6 +250,8 @@ skills:
       percentage: 95
     - name: Java 17
       percentage: 90
+    - name: Hibernate
+      percentage: 85
     - name: Kotlin
       percentage: 75
     - name: Python
