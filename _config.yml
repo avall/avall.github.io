@@ -72,8 +72,8 @@ author:  # change following line to your infomation.
 
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-java
-    - name: icon-kotlin
+    - name: icon-aws
+    - name: icon-java-bold
   skill_icon2:
     - name: icon-spring
     - name: icon-postgres
