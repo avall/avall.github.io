@@ -75,6 +75,7 @@ history:
               <li>API services using Hexagonal to ensure decoupled modules.</li>
               <li>Foundations library using Starter patterns & covering reactive (WebFlux).</li>
               <li>Database Schemas & RLS (definition & modifications) under Liquibase.</li>
+              <li>Apache Debezium as CDC to inject data in the Data Lake.</li>
             </ul>
           </div>
       technologies:
