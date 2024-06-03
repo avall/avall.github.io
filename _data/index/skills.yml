@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Spring Boot, Spring Cloud, Java 17, Kotlin, Python, Typescript, PostgreSQL, MongoDb, Apache Kafka, AWS Step Functions, Camunda BPM, OpenApi, Git actions, UML, Kubernetes, Open Policy Agent, Amazon Verified Permissions, Salesforce
-percentage: 95, 95, 90, 75, 40, 55, 90, 75, 75, 75, 65, 95, 80, 80, 50, 75, 10, 50
+aspects: Spring Boot, Spring Cloud, Java 17, Kotlin, Hibernate, Python, Typescript, PostgreSQL, MongoDb, Apache Kafka, AWS Step Functions, Camunda BPM, OpenApi, Git actions, UML, Kubernetes, Open Policy Agent, Amazon Verified Permissions, Salesforce
+percentage: 95, 95, 90, 75, 85, 40, 55, 90, 75, 75, 75, 65, 95, 80, 80, 50, 75, 10, 50
