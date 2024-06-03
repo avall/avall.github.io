@@ -13,19 +13,19 @@
   },
   "about_me":{
     "about_me": "Sobre mi",
-    "des": "Apasionado por la tecnología..."
+    "des": "Soy arquitecto de software enfocado en backend. Tengo experiencia en Java (Spring Framework - Boot, Cloud), Kotlin y kafka. Siempre estoy muy interesado en buscar soluciones a nivel de infraestructura en lugar de implementaciones personalizadas. Cualquier solución a nivel de infraestructura es casi siempre mejor que una solución personalizada."
   },
   "skills":{
-    "my_skills": "Cosa so Fare..."
+    "my_skills": "Capacidades"
   },
   "projects":{
-    "my_projects": "I Miei Progetti",
+    "my_projects": "Proyectos",
     "kace-sma-tools": "Idee, script e suggerimenti utili per Quest Kace Systems Management Appliace (precedentmente noto come K1000)",
     "skyflash-github": "Il repository GitHub su cui viene sviluppato questo sito",
     "k1000-database-queries": "Una collezione di queries MySQL per Il KACE 1000 (Quest Kace Systems Management Appliance)"
   },
   "career":{
-    "my_career": "Principali Esperienze Lavorative",
+    "my_career": "Experiencia laboral",
     "nextcode": "Nextcode",
     "nextcode_des": "Now I am in Nextcode and develop website with Python code for genetic analysis.",
     "nextcode_date": "Apr. 2016",
