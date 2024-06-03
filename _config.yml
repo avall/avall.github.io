@@ -1,4 +1,4 @@
-title: Alex Vall - Awesome Engineer
+title: Alex Vall - Software Engineer
 
 # Theme primary chooses
 cello: &cello "#434E5E"
@@ -9,7 +9,7 @@ governor_bay: &governor_bay "#59578E"
 cosmic: &cosmic "#80425F"
 
 theme_color: *cello
-description: Alex Vall - Awesome Engineer
+description: Alex Vall - Software Engineer
 repository: avall/avall.github.io
 
 sass:
