@@ -35,8 +35,8 @@
   "career":{
     "my_career": "My Career",
     "wefox2023": "Wefox Group",
-    "wefox2023_des": "PaaS (Platform As a Service with Multi-tenant strategy) to simplify the relation between \n Distributors, Brokers, Manufacturers & Final Customers",
-    "wefox2023_date": "Enero.2023 - Presente",
+    "wefox2023_desc": "PaaS (Platform As a Service with Multi-tenant strategy) to simplify the relation between \n Distributors, Brokers, Manufacturers & Final Customers",
+    "wefox2023_date": "January.2023 - Today",
     "wefox2023_job": "Principal Architect (Platform foundations)",
     "netease": "Netease Game",
     "netease_des": "In Netease game, I learned game service system and use Python code for ops.",
