@@ -15,10 +15,11 @@
                         <i class="fa {{ career.icon }}"></i>
                     </div>
                     <div class="vertical-timeline-content wow {% if loopindex == 1 %} rotateInUpRight {% else %} rotateInUpLeft {% endif %}">
-                        <h2><span data-i18n="career.{{ career.name.i18n }}">{{ career.name.detail }}</span></h2>
+                        <h2><span data-i18n="career.{{ career.name.i18n }}">{{ career.name.detail | newline_to_br  }}</span></h2>
                         <p>
                             <span data-i18n="career.{{ career.desc.i18n }}">{{ career.desc.detail }} </span>
 
+                            <br>
                             <br>
                             {% if career.desc.tech %}
                                 <span><b>Technologies:  {{ career.desc.tech }}</b></span>
