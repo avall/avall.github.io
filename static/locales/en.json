@@ -28,7 +28,9 @@
   },
   "interesting":{
     "my_projects": "Interesting",
-    "avall-github": "GitHub repo of this website."
+    "bytebytego": "Interesting site about System Design.",
+    "baeldung": "Best practices for Java, Kotlin & Spring Framework.",
+    "uoc": "Universitat Oberta de Catalunya."
   },
   "career":{
     "my_career": "My Career",

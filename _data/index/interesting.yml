@@ -3,9 +3,27 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
 
-- name: This website on Github
-  gh_user: avall
-  repo: /jandrinet
-  img: /static/assets/img/landing/me.jpg
-  desc: Il repository GitHub su cui viene sviluppato questo sito
-  i18n: avall-github
+- name: ByteByteGo
+  gh_user:
+  url: https://bytebytego.com
+  repo:
+  img: /static/assets/img/interesting/bytebytego.jpg
+  desc:
+  i18n: bytebytego
+
+- name: Baeldung
+  gh_user:
+  url: https://www.baeldung.com
+  repo:
+  img: /static/assets/img/interesting/baeldung.jpg
+  desc:
+  i18n: baeldung
+
+
+- name: UOC
+  gh_user:
+  url: https://www.uoc.edu
+  repo:
+  img: /static/assets/img/interesting/uoc.jpg
+  desc:
+  i18n: uoc
