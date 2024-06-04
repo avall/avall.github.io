@@ -7,6 +7,7 @@
     detail: >
       .- PaaS (Platform As a Service with Multi-tenant strategy) to simplify the relation between distributors, brokers, manufacturers & final customers. 
 
+
       .- Design of the platform architecture (RFC's) & Implementation of the foundations library.
     tech: Java 17, Spring Framework (Boot, Cloud), Python (AWS lambda authorizers), AWS RDS Postgres (RLS - Row Level Security),
           Redis (distributed cache), OPA (Open Policy Agent), AWS Lambda / Step Functions, AWS API Gateway,
@@ -27,6 +28,7 @@
   desc:
     detail: >
       .- Lead the Claims team to accomplish these goals:
+      
           * New Claims API using ontology in the OpenApi definition of the damage (coverage extension) syntax definition.
           * Automatic fraud detection using AI.
           * Automatic car claim evaluation using AI.
@@ -47,11 +49,15 @@
     detail: >
       .- API first adoption as a methodology to work.
       
+      
       .- Design a common Hexagonal Architecture (archetype) for all the Microservices implementations.
+      
       
       .- Microservice architecture (design and implementation) for ‘Backend For Frontend (BFF)’ to provide services to Mobile / Web Apps.
       
+      
       ,- Microservice architecture (design and implementation) for backend core to provide business rules related with the new Insurance Company called ONE.
+      
         * Step Functions and Camunda BPM for orchestration and Business Processes. Using BPMN notation. Claim coverage validation, Fraud detection. Calculate the costs of any claim.
         * gRPC (protobuf) for synchronous communication between Microservices.
         * Apache Kafka as a broker to work in async way.
@@ -72,6 +78,7 @@
     detail: >
       .- IOS Mobile App for Switzerland market to facilitate the switch process between Insurance Companies. Viper architecture used.
       
+      
       .- Monolith architecture (design and implementation) for Backend For Frontend.
     tech: Swift, Cocoapods, Java 11, Spring Framework (Boot, Cloud), Spring Integration, Heroku Connect (Sync between Salesforce & Postgres)
     i18n: wefox2014_desc
@@ -89,11 +96,14 @@
   desc:
     detail: >
       .- B2B IOS Mobile App (ipad) for Monsanto (South Africa market).
+      
         * Viper architecture as a design pattern (View, Interactor, Presenter & Router).
         * Possibility to work offline. Background synchronization.
         * Salesforce integration using a Java middleware (Backend For Frontend).
       
+      
       .- BCA (British Car Auctions). Shoppers use the app to confirm bets placed by the moderator.
+      
       
       .- BCP (Central Bank of Peru). IOS Mobile App (ipad, iphone) that automates all daily tasks of any end user.
     tech: Swift, ObjectiveC, Cocoapods, SQLite, Java 11, Spring Framework (Boot), Spring Integration, Salesforce
@@ -110,12 +120,16 @@
     detail: Accenture
     i18n: accenture
   desc:
-    detail: >
+    detail: |
       .- B2B IOS Mobile App (ipad) for Colomer (Revlon - cosmetics). Revlon’s sales team uses the app to sell in hairdressing salons.
-        * Possibility to work offline. Background synchronization.
-        * SAP integration using a Java middleware (Backend For Frontend).
+      <ul>
+        <li>>Possibility to work offline. Background synchronization.</li>
+        <li>SAP integration using a Java middleware (Backend For Frontend).</li>
+      </ul>
+      
       
       .- Backend Application (Technotree) - Helsinki (Finland). Messaging Server for Telecommunications Operator (Swisscom, Sonera).
+      
         * Voice mailbox (iphone), Video mailbox, SMS, Streaming, Alarms, Notifications
         * Developed using JAVA open source.
     tech: Swift, ObjectiveC, Cocoapods, SQLite, Java 8, Spring Framework, JAX-WS-RS (cxf), Hibernate, JBOSS ESB (under JBOSS) as process orchestrator.
