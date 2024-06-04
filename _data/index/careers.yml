@@ -26,13 +26,18 @@
     detail: Wefox Group
     i18n: wefox2021
   desc:
-    detail: 
+    detail: >
+      .- Lead the Claims team to accomplish these goals:
+          * New Claims API using ontology in the OpenApi definition of the damage (coverage extension) syntax definition.
+          * Automatic fraud detection using AI.
+          * Automatic car claim evaluation using AI.
+    tech: Java 17, Spring Framework (Boot, Cloud), Java 17 Spring Framework (Boot, Cloud), AWS Lambdas, AWS Step Functions, Apache Kafka, Apache Debezium, Google Dialogflow Chatbot (AI)
     i18n: wefox2021_desc
   date:
-    detail: Febbraio 2020 - Dicembre 2021
+    detail: Jan.2021 - Jan.2023 (2 yrs)
     i18n: wefox2021_date
   job:
-    detail: Senior System Administrator - Digital Infrastructures
+    detail: Principal Software Engineer (Claims domain)
     i18n: wefox2021_job
   icon: fa-plus-square
  
@@ -40,13 +45,21 @@
     detail: Wefox Group
     i18n: wefox2019
   desc:
-    detail: Ho il compito di gestire, analizzare e realizzare soluzioni per supportare i servizi Office Automation erogati dall’Azienda. Il sistema Kace 1000 è stato nel tempo evoluto e grazie ad esso oggi gestiamo anche script automatizzati e configurazioni dei PC client ed installazioni software on demand.
+    detail: >
+      .- API first adoption as a methodology to work.
+      .- Design a common Hexagonal Architecture (archetype) for all the Microservices implementations.
+      .- Microservice architecture (design and implementation) for ‘Backend For Frontend (BFF)’ to provide services to Mobile / Web Apps.
+      ,- Microservice architecture (design and implementation) for backend core to provide business rules related with the new Insurance Company called ONE.
+        * Step Functions and Camunda BPM for orchestration and Business Processes. Using BPMN notation. Claim coverage validation, Fraud detection. Calculate the costs of any claim.
+        * gRPC (protobuf) for synchronous communication between Microservices.
+        * Apache Kafka as a broker to work in async way.
+    tech: Java 17, Spring Framework (Boot, Cloud), GraphQL (Apollo), RDS Postgres, Apache Kafka, Camunda BPM, gRPC (protobuf)
     i18n: wefox2019_desc
   date:
-    detail: Gennaio 2017 - Febbraio 2020
-    i18n: novomatic_b_date
+    detail: March.2019 - Jan.2021 (2 yrs)
+    i18n: wefox2019_date
   job:
-    detail: Coordinatore Office Automation Systems
+    detail: Senior Engineer
     i18n: wefox2019_job
   icon: fa-plus-square
 
@@ -54,13 +67,16 @@
     detail: Financefox (Wefox Group)
     i18n: wefox2014
   desc:
-    detail: Assistenza in ambito Office Automation a tutti gli utenti del Gruppo Novomatic sul territorio italiano. Gestione di server Linux e Windows che offrono diversi servizi quali Git, MDM, siti web corporate, antivirus eccetera
+    detail: >
+      .- IOS Mobile App for Switzerland market to facilitate the switch process between Insurance Companies. Viper architecture used.
+      .- Monolith architecture (design and implementation) for Backend For Frontend.
+    tech: Swift, Cocoapods, Java 11, Spring Framework (Boot, Cloud), Spring Integration, Heroku Connect (Sync between Salesforce & Postgres)
     i18n: wefox2014_desc
   date:
-    detail: Gennaio 2015 - Dicembre 2016
+    detail: Dec.2014 - March.2019 (4 yrs + 3 mos)
     i18n: wefox2014_date
   job:
-    detail: Referente Office Automation
+    detail: Senior Engineer
     i18n: wefox2014_job
   icon: fa-plus-square
 
@@ -68,13 +84,20 @@
     detail: Ameu8 (Everis)
     i18n: ameu8
   desc:
-    detail: Ho progettato e gestito l'intera infrastruttura del Gruppo, realizzando un progetto di consolidamento e centralizzazione che ha ridotto i costi e permesso a tutti gli utenti (oltre 100) di lavorare in un ambiente funzionale ed uniforme.
+    detail: >
+      .- B2B IOS Mobile App (ipad) for Monsanto (South Africa market).
+        * Viper architecture as a design pattern (View, Interactor, Presenter & Router).
+        * Possibility to work offline. Background synchronization.
+        * Salesforce integration using a Java middleware (Backend For Frontend).
+      .- BCA (British Car Auctions). Shoppers use the app to confirm bets placed by the moderator.
+      .- BCP (Central Bank of Peru). IOS Mobile App (ipad, iphone) that automates all daily tasks of any end user.
+    tech: Swift, ObjectiveC, Cocoapods, SQLite, Java 11, Spring Framework (Boot), Spring Integration, Salesforce
     i18n: ameu8_desc
   date:
-    detail: Gennaio 2006 - Dicembre 2014
+    detail: Jun.2012 - Nov.2014 (2 yrs)
     i18n: ameu8_date
   job:
-    detail: Responsabile IT
+    detail: Mobile Engineer
     i18n: ameu8_job
   icon: fa-plus-square
 
@@ -82,12 +105,19 @@
     detail: Accenture
     i18n: accenture
   desc:
-    detail: Ho progettato e gestito l'intera infrastruttura del Gruppo, realizzando un progetto di consolidamento e centralizzazione che ha ridotto i costi e permesso a tutti gli utenti (oltre 100) di lavorare in un ambiente funzionale ed uniforme.
+    detail: >
+      .- B2B IOS Mobile App (ipad) for Colomer (Revlon - cosmetics). Revlon’s sales team uses the app to sell in hairdressing salons.
+        * Possibility to work offline. Background synchronization.
+        * SAP integration using a Java middleware (Backend For Frontend).
+      .- Backend Application (Technotree) - Helsinki (Finland). Messaging Server for Telecommunications Operator (Swisscom, Sonera).
+        * Voice mailbox (iphone), Video mailbox, SMS, Streaming, Alarms, Notifications
+        * Developed using JAVA open source.
+    tech: Swift, ObjectiveC, Cocoapods, SQLite, Java 8, Spring Framework, JAX-WS-RS (cxf), Hibernate, JBOSS ESB (under JBOSS) as process orchestrator.
     i18n: accenture_desc
   date:
-    detail: Gennaio 2006 - Dicembre 2014
+    detail: Jun.2008 - May.2012 (4 yrs)
     i18n: accenture_date
   job:
-    detail: Responsabile IT
+    detail: Senior system Analyst
     i18n: accenture_job
   icon: fa-plus-square
