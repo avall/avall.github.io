@@ -44,7 +44,7 @@ history:
         Distributors, Brokers, Manufacturers & Final Customers.
         
         * Lead the team to implement the foundations (control plane) of the platform.
-        * Design the multi-tenancy architecture of the platform taking care:
+        * Design the multi-tenancy architecture (RFC's) of the platform taking care:
           <div class="d-print-none" markdown="1">
             <ul>
               <li>Business OKR's to adopt the best solution in terms of performance & costs. The PaaS is a business based on economy of scale.</li>
@@ -69,7 +69,7 @@ history:
               </ul>
             </ul>
           </div>
-        * Implementation of the foundations & architecture of the platform:
+        * Implementation of the foundations library & design of the platform architecture:
           <div class="d-print-none" markdown="1">
             <ul>
               <li>API services using Hexagonal to ensure decoupled modules.</li>
