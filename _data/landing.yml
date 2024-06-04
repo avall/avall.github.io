@@ -25,9 +25,9 @@
   css: project
 
 - id: interesting
-  i18n: nav.projects
-  name: Projects
-  tpl: projects.html
+  i18n: nav.interesting
+  name: Interesting
+  tpl: interesting.html
   css: project
 
 - id: blog

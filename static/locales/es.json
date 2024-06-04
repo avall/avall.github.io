@@ -4,10 +4,11 @@
   },
   "nav":{
     "home": "Home",
-    "about_me": "Sobre mi",
-    "skills": "Competencias",
+    "about_me": "Mi",
+    "skills": "Aptitudes",
     "projects": "Proyectos",
-    "career": "Esperiencia",
+    "interesting": "Interesante",
+    "career": "Experiencia",
     "blog": "Blog",
     "link": "Contacto"
   },
