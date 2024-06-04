@@ -15,7 +15,7 @@
   "about_me":{
     "about_me": "Sobre mi",
     "view_resume": "Ver CV",
-    "des": "Soy arquitecto de software enfocado en backend. Tengo experiencia en arquitecturas de Microservicios desarrolladas en Java (Spring Framework - Boot, Cloud), Kotlin y kafka (async). Siempre estoy muy focalizado en buscar soluciones a nivel de infraestructura (Camunda para orquestación o OPA para manejar políticas de autorización) en lugar de implementaciones personalizadas. Cualquier solución a nivel de infraestructura suele ser mejor que una implementación personalizada."
+    "des": "Soy arquitecto de software enfocado en backend. Tengo experiencia en arquitecturas de Microservicios desarrolladas en Java (Spring Framework - Boot, Cloud), Kotlin y kafka (async). Siempre estoy muy focalizado en buscar soluciones a nivel de infraestructura (Camunda para orquestación o OPA para manejar políticas de autorización) en lugar de implementaciones personalizadas. Cualquier solución a nivel de infraestructura suele ser mejor que una implementación personalizada. Recuerda !! Las personas van antes que los procesos !!."
   },
   "skills":{
     "my_skills": "Capacidades"

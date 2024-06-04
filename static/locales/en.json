@@ -15,7 +15,7 @@
   "about_me":{
     "about_me": "About Me",
     "view_resume": "View CV / Resume",
-    "des": "I am a software architect focused on backend. I have experience in Microservices architectures developed in Java (Spring Framework - Boot, Cloud), Kotlin and kafka (async). I am always very focused on looking for infrastructure level solutions (Camunda for orchestration or OPA to handle authorization policies) rather than custom implementations. Any infrastructure level solution is usually better than a custom implementation."
+    "des": "I am a software architect focused on backend. I have experience in Microservices architectures developed in Java (Spring Framework - Boot, Cloud), Kotlin and kafka (async). I am always very focused on looking for infrastructure level solutions (Camunda for orchestration or OPA to handle authorization policies) rather than custom implementations. Any infrastructure level solution is usually better than a custom implementation. Remember !! People is first than processes !!"
   },
   "skills":{
     "my_skills": "My Skills"
