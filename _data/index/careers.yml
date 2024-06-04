@@ -8,7 +8,7 @@
       .- PaaS (Platform As a Service with Multi-tenant strategy) to simplify the relation between distributors, brokers, manufacturers & final customers. 
 
 
-      .- Implementation of the foundations library & design of the platform architecture.
+      .- Design of the platform architecture (RFC's) & Implementation of the foundations library.
     tech: Java 17, Spring Framework (Boot, Cloud), Python (AWS lambda authorizers), AWS RDS Postgres (RLS - Row Level Security),
           Redis (distributed cache), OPA (Open Policy Agent), AWS Lambda / Step Functions, AWS API Gateway,
           AWS EKS, JOLT
