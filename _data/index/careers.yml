@@ -4,13 +4,19 @@
     detail: Wefox Group
     i18n: wefox2023
   desc:
-    detail: 
+    detail: >
+      PaaS (Platform As a Service with Multi-tenant strategy) to simplify the relation between distributors, brokers, manufacturers & final customers. 
+      
+      Implementation of the foundations library & design of the platform architecture.
+    tech: Java 17, Spring Framework (Boot, Cloud), Python (AWS lambda authorizers), AWS RDS Postgres (RLS - Row Level Security),
+          Redis (distributed cache), OPA (Open Policy Agent), AWS Lambda / Step Functions, AWS API Gateway,
+          AWS EKS, JOLT
     i18n: wefox2023_desc
   date:
-    detail: Dicembre 2021 - Presente
+    detail: January.2023 - Today
     i18n: wefox2023_date
   job:
-    detail: IT & Service Management Unit Manager
+    detail: Principal Architect (Platform foundations)
     i18n: wefox2023_job
   icon: fa-plus-square
   present: true

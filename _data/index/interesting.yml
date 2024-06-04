@@ -8,7 +8,7 @@
   url: https://bytebytego.com
   repo:
   img: /static/assets/img/interesting/bytebytego.jpg
-  desc:
+  desc: Interesting site about system design.
   i18n: bytebytego
 
 - name: Baeldung
@@ -16,7 +16,7 @@
   url: https://www.baeldung.com
   repo:
   img: /static/assets/img/interesting/baeldung.jpg
-  desc:
+  desc: Best practices for Java, Kotlin & Spring Framework.
   i18n: baeldung
 
 
@@ -25,5 +25,5 @@
   url: https://www.uoc.edu
   repo:
   img: /static/assets/img/interesting/uoc.png
-  desc:
+  desc: Open University of Catalonia.
   i18n: uoc
