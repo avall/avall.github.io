@@ -122,12 +122,9 @@
   desc:
     detail: |
       .- B2B IOS Mobile App (ipad) for Colomer (Revlon - cosmetics). Revlon’s sales team uses the app to sell in hairdressing salons.
-      <ul><li>Possibility to work offline. Background synchronization.</li><li>SAP integration using a Java middleware (Backend For Frontend).</li></ul>
-      
+      <ul><li>Possibility to work offline. Background synchronization.</li><li>SAP integration using a Java middleware (Backend For Frontend).</li></ul>      
       .- Backend Application (Technotree) - Helsinki (Finland). Messaging Server for Telecommunications Operator (Swisscom, Sonera).
-      
-        * Voice mailbox (iphone), Video mailbox, SMS, Streaming, Alarms, Notifications
-        * Developed using JAVA open source.
+      <ul><li>Voice mailbox (iphone), Video mailbox, SMS, Streaming, Alarms, Notifications</li><li>Developed using JAVA open source.</li>
     tech: Swift, ObjectiveC, Cocoapods, SQLite, Java 8, Spring Framework, JAX-WS-RS (cxf), Hibernate, JBOSS ESB (under JBOSS) as process orchestrator.
     i18n: accenture_desc
   date:
