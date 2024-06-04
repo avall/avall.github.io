@@ -24,6 +24,6 @@
   gh_user:
   url: https://www.uoc.edu
   repo:
-  img: /static/assets/img/interesting/uoc.jpg
+  img: /static/assets/img/interesting/uoc.png
   desc:
   i18n: uoc
