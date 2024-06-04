@@ -40,7 +40,7 @@ history:
       location: Barcelona (Spain)
       time: Jan.2023 - Present
       description: |
-        PaaS (Platform As a Service with Multi-tenant strategy) to improve the relation between 
+        PaaS (Platform As a Service with Multi-tenant strategy) to simplify the relation between 
         Distributors, Brokers, Manufacturers & Final Customers.
         
         * Lead the team to implement the foundations (control plane) of the platform.
