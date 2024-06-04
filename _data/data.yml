@@ -44,11 +44,11 @@ history:
         Distributors, Brokers, Manufacturers & Final Customers.
         
         * Lead the team to implement the foundations (control plane) of the platform.
-        * Design the multi-tenancy architecture (RFC's) of the platform taking care:
+        * Design the multi-tenancy architecture of the platform taking care:
           <div class="d-print-none" markdown="1">
             <ul>
               <li>Business OKR's to adopt the best solution in terms of performance & costs. The PaaS is a business based on economy of scale.</li>
-                      <li>Create RFC's to adopt the best solution in terms of performance, scalability, resilience and security.</li>
+              <li>Document RFC's to adopt the best solution in terms of performance, scalability, resilience and security.</li>
               <li>Data isolation in tenant level using Postgres-RLS (Row Level Security)</li>
               <li>Tenant & Identity context propagation using an extra header in the request</li>
               <li>New authorisation approach decoupled from authentication using custom new Permission API &  Open Policy Agent</li>
