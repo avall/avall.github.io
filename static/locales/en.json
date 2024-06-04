@@ -48,7 +48,9 @@
   },
   "link":{
     "link": "Contact",
-    "view": "views"
+    "view": "views",
+    "cv": "CV / Resume",
+    "cv_desc": "CV & Contact information"
   }
 
 }

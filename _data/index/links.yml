@@ -1,6 +1,10 @@
 # links section data
-- last_name: CV / Resume
+- last_name:
+    detail:
+    i18n: cv
   first_name:
   desc:
+    detail:
+    i18n: cv_desc
   website: https://avall.github.io
   email: alex.vall.mainou@gmail.com

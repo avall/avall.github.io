@@ -48,7 +48,9 @@
   },
   "link":{
     "link": "Contacto",
-    "view": "visualizaciones"
+    "view": "visualizaciones",
+    "cv": "CV / Resumen",
+    "cv_desc": "CV y Datos de contacto"
   }
 
 }
