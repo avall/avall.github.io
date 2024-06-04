@@ -122,11 +122,7 @@
   desc:
     detail: |
       .- B2B IOS Mobile App (ipad) for Colomer (Revlon - cosmetics). Revlon’s sales team uses the app to sell in hairdressing salons.
-      <ul>
-        <li>>Possibility to work offline. Background synchronization.</li>
-        <li>SAP integration using a Java middleware (Backend For Frontend).</li>
-      </ul>
-      
+      <ul><li>Possibility to work offline. Background synchronization.</li><li>SAP integration using a Java middleware (Backend For Frontend).</li></ul>
       
       .- Backend Application (Technotree) - Helsinki (Finland). Messaging Server for Telecommunications Operator (Swisscom, Sonera).
       
