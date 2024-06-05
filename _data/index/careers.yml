@@ -4,7 +4,7 @@
     detail: Wefox Group
     i18n: wefox2023
   desc:
-    detail: >
+    detail: |
       .- PaaS (Platform As a Service with Multi-tenant strategy) to simplify the relation between distributors, brokers, manufacturers & final customers. 
 
 
@@ -26,7 +26,7 @@
     detail: Wefox Group
     i18n: wefox2021
   desc:
-    detail: >
+    detail: |
       .- Lead the Claims team to accomplish these goals:
       
           * New Claims API using ontology in the OpenApi definition of the damage (coverage extension) syntax definition.
@@ -46,7 +46,7 @@
     detail: Wefox Group
     i18n: wefox2019
   desc:
-    detail: >
+    detail: |
       .- API first adoption as a methodology to work.
       
       
@@ -75,7 +75,7 @@
     detail: Financefox (Wefox Group)
     i18n: wefox2014
   desc:
-    detail: >
+    detail: |
       .- IOS Mobile App for Switzerland market to facilitate the switch process between Insurance Companies. Viper architecture used.
       
       
@@ -94,7 +94,7 @@
     detail: Ameu8 (Everis)
     i18n: ameu8
   desc:
-    detail: >
+    detail: |
       .- B2B IOS Mobile App (ipad) for Monsanto (South Africa market).
       
         * Viper architecture as a design pattern (View, Interactor, Presenter & Router).
