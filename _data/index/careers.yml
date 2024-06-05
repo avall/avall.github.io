@@ -27,7 +27,6 @@
   desc:
     detail: |
       .- Lead the Claims team to accomplish these goals:
-      
           <ul><li>New Claims API using ontology in the OpenApi definition of the damage (coverage extension) syntax definition.</li><li>Automatic fraud detection using AI.</li><li>Automatic car claim evaluation using AI.</li></ul>
     tech: Java 17, Spring Framework (Boot, Cloud), Java 17 Spring Framework (Boot, Cloud), AWS Lambdas, AWS Step Functions, Apache Kafka, Apache Debezium, Google Dialogflow Chatbot (AI)
     i18n: wefox2021_desc
@@ -87,7 +86,6 @@
     detail: |
       .- B2B IOS Mobile App (ipad) for Monsanto (South Africa market).
         <ul><li>Viper architecture as a design pattern (View, Interactor, Presenter & Router).</li><li>Possibility to work offline. Background synchronization.</li><li>Salesforce integration using a Java middleware (Backend For Frontend).</li></ul>
-      
       .- BCA (British Car Auctions). Shoppers use the app to confirm bets placed by the moderator.
       
       .- BCP (Central Bank of Peru). IOS Mobile App (ipad, iphone) that automates all daily tasks of any end user.
