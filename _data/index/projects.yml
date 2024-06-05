@@ -1,39 +1,91 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Kace SMA Tools
-  gh_user: KACE-SMA-Tools
-  url: https://github.com/kace-sma-tools
-  img: /static/assets/img/landing/kacesmatools.png
-  desc: Useful scripts and ideas for Quest Kace Systems Management Appliace (K1000).
-  i18n: kace-sma-tools
+- name: Spring cloud stream (Kotlin)
+  gh_user: avall
+  repo: kotlin-spring-cloud-stream
+  img: /static/assets/img/projects/kotlin.png
+  desc: Useful sample to check Spring Cloud Stream with Kotlin.
+  i18n: kotlin-spring-cloud-stream
 
-- name: K1000 Database Queries
-  gh_user: KACE-SMA-Tools
-  repo: K1000-Database-Queries
-  img: /static/assets/img/landing/development.png
-  desc: A collection of MySQL queries for the Dell KACE K1000 appliance.
-  i18n: k1000-database-queries
+- name: Spring cloud stream sample (java)
+  gh_user: avall
+  repo: spring-cloud-stream-sample
+  img: /static/assets/img/projects/spring-cloud.png
+  desc: Consumer & producer.
+  i18n: spring-cloud-stream-sample
 
-- name: IPUI to IPEI
-  gh_user: Skyflash
-  repo: ipui2ipei
-  img: /static/assets/img/landing/dect-85-512.png
-  desc: key 'translation:projects. (en)' returned an object instead of string.
+- name: Kafka Schema Registry Confluent Avro Serializer
+  gh_user: avall
+  repo: kafka-schema-registry-confluent-avro-serializer
+  img: /static/assets/img/projects/kafka.png
+  desc: Schema registry & AVRO Serializer with kafka.
+  i18n: kafka-schema-registry-confluent-avro-serializer
 
-- name: FlottaStellare.it
-  gh_user:  ed-acfs
-  repo: ed-acfs.github.io
-  url:  https://flottastellare.it
-  img:  /static/assets/img/landing/flottastellare.png
-  desc: key 'translation:projects. (en)' returned an object instead of string.
+- name: Github stats
+  gh_user: avall
+  repo: github-stats
+  img: /static/assets/img/projects/github.png
+  desc: Print the status dashboard of your entire github acchitount.
+  i18n: github-stats
 
-- name: La Traduzione di Morrowind
-  gh_user: Skyflash
-  repo: morrowind-italian-itp-translation
-  img: /static/assets/img/landing/morrowind.png
-  desc: La traduzione in Italiano di Morrowind, Tribunal e Bloodmoon - A cura dell'ITP
-  i18n: morrowind-translation
+- name: Jolt demo server to run transformations.
+  gh_user: avall
+  repo: joltdemo
+  img: /static/assets/img/projects/jolt.png
+  desc: Jolt GUI app to run transformations.
+  i18n: joltdemo
+
+- name: POC OPA K8S
+  gh_user: avall
+  repo: Poc-OPA-K8S
+  img: /static/assets/img/projects/opa.png
+  desc: POC to proof Open Policy Agent and K8S. Storing some data in OPA cache.
+  i18n: poc-opa-k8s
+
+- name: JRedis
+  gh_user: avall
+  repo: jredis
+  img: /static/assets/img/projects/redis.png
+  desc: Simple Redis cache implementation in Java.
+  i18n: jredis
+
+- name: POC BPMN to AWS-StepFunctions
+  gh_user:  avall
+  repo: POC-BPMN-to-Step-Functions
+  url:
+  img:  /static/assets/img/projects/bpmn.png
+  desc: POC to convert BPMN 2.0 to AWS Step Functions.
+  i18n: poc-bpmn-to-step-functions
+
+- name: Hexagonal Architecture Sample
+  gh_user: avall
+  repo: hexagonal-architecture-sample
+  img: /static/assets/img/projects/hexagonal.png
+  desc: Totally decoupled sample of Hexagonal Architecture (Spring & Java).
+  i18n: hexagonal-architecture-sample
+
+- name: Multiple datasources using Spring Boot
+  gh_user: avall
+  repo: spring-boot-multiple-datasource-song-project
+  img: /static/assets/img/projects/java.png
+  desc: Multiple datasources with Spring Boot (Spring & Java).
+  i18n: spring-boot-multiple-datasource-song-project
+
+- name: Raspberry
+  gh_user: avall
+  repo: raspberry
+  img: /static/assets/img/projects/domotic.png
+  desc: Domotic project using local Control Hub.
+  i18n: raspberry
+
+- name: Algorithms in java
+  gh_user: avall
+  repo: algorithms-in-java
+  img: /static/assets/img/projects/algorithm.png
+  desc: Algorithms in java
+  i18n: algorithms-in-java
+
 
 - name: This website on Github
   gh_user: avall
