@@ -50,6 +50,30 @@
   desc: Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.
   i18n: node-red
 
+- name: Apache Flink
+  gh_user:
+  url: https://flink.apache.org/
+  repo:
+  img: /static/assets/img/interesting/flink.png
+  desc: Apache Flink is a framework and distributed processing engine for stateful computations over unbounded and bounded data streams.
+  i18n: flink
+
+- name: Apache Airflow
+  gh_user:
+  url: https://airflow.apache.org/
+  repo:
+  img: /static/assets/img/interesting/airflow.png
+  desc: Apache Airflow is a platform created by the community to programmatically author, schedule and monitor workflows.
+  i18n: airflow
+
+- name: Apache nifi
+  gh_user:
+  url: https://nifi.apache.org/
+  repo:
+  img: /static/assets/img/interesting/nifi.png
+  desc: Apache NiFi is an easy to use, powerful, and reliable system to process and distribute data.
+  i18n: nifi
+
 - name: CodelyTV
   gh_user:
   url: https://codely.com/
