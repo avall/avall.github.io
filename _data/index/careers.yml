@@ -29,9 +29,9 @@
     detail: |
       .- Lead the Claims team to accomplish these goals:
       
-          * New Claims API using ontology in the OpenApi definition of the damage (coverage extension) syntax definition.
-          * Automatic fraud detection using AI.
-          * Automatic car claim evaluation using AI.
+          <ul><li>New Claims API using ontology in the OpenApi definition of the damage (coverage extension) syntax definition.</li>
+          <li>Automatic fraud detection using AI.</li>
+          <li>Automatic car claim evaluation using AI.</li></ul>
     tech: Java 17, Spring Framework (Boot, Cloud), Java 17 Spring Framework (Boot, Cloud), AWS Lambdas, AWS Step Functions, Apache Kafka, Apache Debezium, Google Dialogflow Chatbot (AI)
     i18n: wefox2021_desc
   date:
@@ -56,11 +56,10 @@
       .- Microservice architecture (design and implementation) for ‘Backend For Frontend (BFF)’ to provide services to Mobile / Web Apps.
       
       
-      ,- Microservice architecture (design and implementation) for backend core to provide business rules related with the new Insurance Company called ONE.
-      
-        * Step Functions and Camunda BPM for orchestration and Business Processes. Using BPMN notation. Claim coverage validation, Fraud detection. Calculate the costs of any claim.
-        * gRPC (protobuf) for synchronous communication between Microservices.
-        * Apache Kafka as a broker to work in async way.
+      ,- Microservice architecture (design and implementation) for backend core to provide business rules related with the new Insurance Company called ONE.      
+        <ul><li>Step Functions and Camunda BPM for orchestration and Business Processes. Using BPMN notation. Claim coverage validation, Fraud detection. Calculate the costs of any claim.</li>
+        <li>gRPC (protobuf) for synchronous communication between Microservices.</li>
+        <li>Apache Kafka as a broker to work in async way.</li></ul>
     tech: Java 17, Spring Framework (Boot, Cloud), GraphQL (Apollo), RDS Postgres, Apache Kafka, Camunda BPM, gRPC (protobuf)
     i18n: wefox2019_desc
   date:
@@ -96,10 +95,9 @@
   desc:
     detail: |
       .- B2B IOS Mobile App (ipad) for Monsanto (South Africa market).
-      
-        * Viper architecture as a design pattern (View, Interactor, Presenter & Router).
-        * Possibility to work offline. Background synchronization.
-        * Salesforce integration using a Java middleware (Backend For Frontend).
+        <ul><li>Viper architecture as a design pattern (View, Interactor, Presenter & Router).</li>
+        <li>Possibility to work offline. Background synchronization.</li>
+        <li>Salesforce integration using a Java middleware (Backend For Frontend).</li></ul>
       
       
       .- BCA (British Car Auctions). Shoppers use the app to confirm bets placed by the moderator.
