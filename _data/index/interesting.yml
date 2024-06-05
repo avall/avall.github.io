@@ -35,6 +35,21 @@
   desc: OPA is an open source, general-purpose policy engine that unifies policy enforcement across the stack.
   i18n: camunda
 
+- name: Homebridge
+  gh_user:
+  url: https://homebridge.io/
+  repo:
+  img: /static/assets/img/interesting/homebridge.png
+  desc: Bringing HomeKit support where there is none.
+
+- name: Node-RED
+  gh_user:
+  url: https://nodered.org
+  repo:
+  img: /static/assets/img/interesting/nodered.png
+  desc: Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.
+  i18n: node-red
+
 - name: CodelyTV
   gh_user:
   url: https://codely.com/
