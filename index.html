@@ -49,7 +49,7 @@ permalink: /
 
 {% for section in site.data.landing %}
 {% assign loopindex = forloop.index | modulo: 2 %}
-<section id="{{ section.id }}" class="features {% if loopindex != 1 || forloop.index == 6 %} gray-section {% endif %} {{ section.css }}" style="margin-top: 0;">
+<section id="{{ section.id }}" class="features {% if loopindex != 1 || forloop.index == 7 %} gray-section {% endif %} {{ section.css }}" style="margin-top: 0;">
 
   {% if section.id != 'blog' %}
   {% include sections/{{section.tpl}} %}
