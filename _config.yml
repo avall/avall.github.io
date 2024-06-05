@@ -77,7 +77,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: icon-spring
     - name: icon-postgres
-  desc: "I am a software architect focused on backend. I have experience in Microservices architectures developed in Java (Spring Framework - Boot, Cloud), Kotlin and kafka (async). I am always very focused on looking for infrastructure level solutions (Camunda for orchestration or OPA to handle authorization policies) rather than custom implementations. Any infrastructure level solution is usually better than a custom implementation. Remember !! People is first than processes !!"
+  desc: "I am a software architect focused on backend. I have experience in Microservices architectures developed in Java (Spring Framework - Boot, Cloud), Kotlin and kafka (async). I am always very focused on looking for open-source / infrastructure level solutions (Camunda for orchestration or OPA to handle authorization policies) rather than custom implementations. Any infrastructure level solution is usually better than a custom implementation. Remember !! People is first than processes !!"
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
