@@ -19,6 +19,21 @@
   desc: Best practices for Java, Kotlin & Spring Framework.
   i18n: baeldung
 
+- name: CodelyTV
+  gh_user:
+  url: https://codely.com/
+  repo:
+  img: /static/assets/img/interesting/codelytv.png
+  desc: Improve your coding & architecture level.
+  i18n: codely
+
+- name: Udemy
+  gh_user:
+  url: https://www.udemy.com/
+  repo:
+  img: /static/assets/img/interesting/udemy.png
+  desc: A leading education site.
+  i18n: udemy
 
 - name: UOC
   gh_user:
