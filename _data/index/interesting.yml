@@ -19,6 +19,22 @@
   desc: Best practices for Java, Kotlin & Spring Framework.
   i18n: baeldung
 
+- name: Camunda
+  gh_user:
+  url: https://camunda.com
+  repo:
+  img: /static/assets/img/interesting/camunda.png
+  desc: Camunda's process orchestration platform allows developers to design, automate and improve processes.
+  i18n: camunda
+
+- name: Open Policy Agent
+  gh_user:
+  url: https://www.openpolicyagent.org/docs/latest/
+  repo:
+  img: /static/assets/img/projects/opa.png
+  desc: OPA is an open source, general-purpose policy engine that unifies policy enforcement across the stack.
+  i18n: camunda
+
 - name: CodelyTV
   gh_user:
   url: https://codely.com/
