@@ -30,11 +30,11 @@
   tpl: interesting.html
   css: project
 
-- id: blog
-  i18n: nav.blog
-  name: Blog
-  tpl: blog.html
-  page: blog/
+#- id: blog
+#  i18n: nav.blog
+#  name: Blog
+#  tpl: blog.html
+#  page: blog/
 #  css: testimonials navy-section
 
 - id: links
