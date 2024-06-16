@@ -20,17 +20,17 @@ summary:
     I am continuously focused on improving & mechanizing as many processes as possible 
     within the software lifecycle by applying:
     
+    * API First and automatic code generation (archetypes and 
+      conversion of OpenApi into source code) to follow best practices & establish OpenApi as source of truth.
     * Feature branch as strategy to reach the fastest way to work with multiple developers.
     * Github Actions to automate the CI/CD process.
     * Hard & strong automatic code review (CodeClimate) to ensure the 
       quality and continuous delivery to production. 
-    * API First and automatic code generation (archetypes and 
-      conversion of OpenApi into source code) to follow best practices & establish OpenApi as source of truth.
     * API versioning based on the major version & different instances for them.
     * Powerful integration test (over 90% coverage) and API contract test for quality assurance.
     * Automation testing in staging environment to ensure the stability of the production environment.
       An automatic regression test in production environment to guarantee uninterrupted service.
-    * Notifications on Slack and Personal Mobiles to guarantee 24/7 service.
+    * Notifications on social media (Slack, Google chat) and Personal Mobiles to guarantee 24/7 service.
 
 history:
   title: Experience
@@ -75,7 +75,7 @@ history:
               <li>API services using Hexagonal to ensure decoupled modules.</li>
               <li>Foundations library using Starter patterns & covering reactive (WebFlux).</li>
               <li>Database Schemas & RLS (definition & modifications) under Liquibase.</li>
-              <li>Apache Debezium as CDC to inject data in the Data Lake using Kafka connectors and Kafka Streams.</li>
+              <li>Apache Debezium as CDC to inject data into the Data Lake using Kafka connectors and Kafka Streams.</li>
               <li>JOLT to transform JSON's.</li>
             </ul>
           </div>
