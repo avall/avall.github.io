@@ -40,7 +40,7 @@ social:
   links:
     - https://twitter.com/Jandrinet
     - https://www.facebook.com/jandrinet
-    - https://www.linkedin.com/in/alejandro-vall-mainou-09a2b25/
+    - https://www.linkedin.com/in/alex-vall/
     - https://github.com/avall
 
 twitter:
@@ -63,7 +63,7 @@ author:  # change following line to your infomation.
   last_name: Vall  # Be used at index page about me section.
   avatar: /static/assets/img/landing/me.jpg  # upload your avatar at directory and edit it.
   github_username: avall  # Leave blank if you don't have now
-  linkedin_id: alejandro-vall-mainou-09a2b25 # Leave blank if you don't have now
+  linkedin_id: alex-vall # Leave blank if you don't have now
   facebook_username: jandrinet  # Leave blank if you don't have now
   twitter: Jandrinet
   email: alex.vall.mainou@gmail.com  # Leave blank if you don't have now
