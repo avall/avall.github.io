@@ -2,7 +2,7 @@ name: Keep Repository Active
 
 on:
   schedule:
-    - cron: '45 6 * * *'  # Ejecuta cada dia a las 6:45
+    - cron: '45 3 * * *'  # Ejecuta cada dia a las 6:45
   workflow_dispatch:
 
 jobs:
