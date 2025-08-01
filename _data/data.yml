@@ -116,10 +116,10 @@ history:
 
       technologies:
         - name: Java 17
-        - name: Spring Framework (Boot, Cloud)
+        - name: Spring Framework (Boot, Cloud Stream)
         - name: AWS Lambdas
         - name: AWS Step Functions
-        - name: Apache Kafka
+        - name: Apache Kafka (KStreams, KSql)
         - name: Apache Debezium
         - name: Google Dialogflow Chatbot (AI)
 
@@ -151,10 +151,10 @@ history:
 
       technologies:
         - name: Java 17
-        - name: Spring Framework (Boot, Cloud)
+        - name: Spring Framework (Boot, Cloud Stream)
         - name: GraphQL (Apollo)
         - name: RDS Postgres
-        - name: Apache Kafka
+        - name: Apache Kafka (KStreams, KSql)
         - name: Camunda BPM
         - name: gRPC (protobuf)
 
@@ -174,11 +174,16 @@ history:
         * RabbitMq for async operations.
         * Enterprise Java (Spring Extension) Common library for all microservices. Simplifying dependencies.
         * Decoupled microservices architecture into same Github repository.
+
+        Frontend for Backoffice (offers).
+        * AngularJS as a framework.
+
       technologies:
         - name: Swift
         - name: Cocoapods
+        - name: AngularJS
         - name: Java 11
-        - name: Spring Framework (Boot, Cloud)
+        - name: Spring Framework (Boot, Cloud Stream)
         - name: Spring Integration
         - name: Heroku Connect (Sync between Salesforce & Postgres)
 
@@ -287,6 +292,8 @@ skills:
       percentage: 80
     - name: Kubernetes
       percentage: 50
+    - name: Terraform
+      percentage: 30
     - name: Open Policy Agent
       percentage: 75
     - name: Amazon Verified Permissions
@@ -295,6 +302,8 @@ skills:
       percentage: 50
   frontend:
     - name: Vue.js
+      percentage: 30
+    - name: AngularJS
       percentage: 30
 
   other:
