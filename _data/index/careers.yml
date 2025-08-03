@@ -71,9 +71,9 @@
   desc:
     detail: |
       .- IOS Mobile App for Switzerland market to facilitate the switch process between Insurance Companies. Viper architecture used.
-      
+      .- Frontend for Backoffice (offers).
       .- Monolith architecture (design and implementation) for Backend For Frontend.
-    tech: Swift, Cocoapods, Java 11, Spring Framework (Boot, Cloud), Spring Integration, Heroku Connect (Sync between Salesforce & Postgres)
+    tech: Swift, Cocoapods, Java 11, Spring Framework (Boot, Cloud), Spring Integration, Heroku Connect (Sync between Salesforce & Postgres), AngularJS
     i18n: wefox2014_desc
   date:
     detail: Dec.2014 - March.2019 (4 yrs + 3 mos)
