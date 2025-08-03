@@ -42,7 +42,6 @@ history:
       description: |
         Async RAG (AI)  application to digitalise any insurance documents following regulatory rules & using different LLMs depending the use case.
         * End To End AI implementation & solution.
-        * Haystack, Langchain, Weaviate, Flowise.        
                       
         PaaS (Platform As a Service with Multi-tenant strategy) to simplify the relation between 
         Distributors, Brokers, Manufacturers & Final Customers.
@@ -94,7 +93,10 @@ history:
         - name: AWS API Gateway
         - name: AWS EKS
         - name: JOLT
-
+        - name: Haystack
+        - name: Langchain
+        - name: Weaviate
+        - name: Flowise
 
     - position: Principal Software Engineer (Claims domain)
       # page_break: true
