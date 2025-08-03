@@ -6,15 +6,14 @@
   desc:
     detail: |
       .- Async RAG (AI) application to digitalise any insurance documents following regulatory rules & using different LLMs depending the use case.
-        * End To End AI implementation & solution.
-        * Haystack, Langchain, Weaviate, Flowise.        
-
+         End To End AI implementation & solution.
+              
       .- PaaS (Platform As a Service with Multi-tenant strategy) to simplify the relation between distributors, brokers, manufacturers & final customers. 
 
       .- Design of the platform architecture (RFC's) & Implementation of the foundations library.
     tech: Java 17, Spring Framework (Boot, Cloud), Python (AWS lambda authorizers), AWS RDS Postgres (RLS - Row Level Security),
           Redis (distributed cache), OPA (Open Policy Agent), AWS Lambda / Step Functions, AWS API Gateway,
-          AWS EKS, JOLT
+          AWS EKS, JOLT, Haystack, Langchain, Weaviate, Flowise.
     i18n: wefox2023_desc
   date:
     detail: January.2023 - Today
