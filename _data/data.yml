@@ -93,6 +93,7 @@ history:
         - name: AWS API Gateway
         - name: AWS EKS
         - name: JOLT
+        - name: python 3
         - name: Haystack
         - name: Langchain
         - name: Weaviate
