@@ -40,6 +40,10 @@ history:
       location: Barcelona (Spain)
       time: Jan.2023 - Present
       description: |
+        Async RAG (AI)  application to digitalise any insurance documents following regulatory rules & using different LLMs depending the use case.
+        * End To End AI implementation & solution.
+        * Haystack, Langchain, Weaviate, Flowise.        
+                      
         PaaS (Platform As a Service with Multi-tenant strategy) to simplify the relation between 
         Distributors, Brokers, Manufacturers & Final Customers.
         
