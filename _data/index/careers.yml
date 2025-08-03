@@ -5,6 +5,10 @@
     i18n: wefox2023
   desc:
     detail: |
+      .- Async RAG (AI) application to digitalise any insurance documents following regulatory rules & using different LLMs depending the use case.
+        * End To End AI implementation & solution.
+        * Haystack, Langchain, Weaviate, Flowise.        
+
       .- PaaS (Platform As a Service with Multi-tenant strategy) to simplify the relation between distributors, brokers, manufacturers & final customers. 
 
       .- Design of the platform architecture (RFC's) & Implementation of the foundations library.
