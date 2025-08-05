@@ -40,8 +40,10 @@ history:
       location: Barcelona (Spain)
       time: Jan.2023 - Present
       description: |
-        Async RAG (AI)  application to digitalise any insurance documents following regulatory rules & using different LLMs depending the use case.
-        * End To End AI implementation & solution.
+        Async RAG (AI) application to digitalise any insurance documents following regulatory rules & using different LLMs depending the use case.
+        * End To End python AI implementation & solution.
+        * Async digitalisation using Celery & Redis as message broker.
+        * Haystack, Langchain, Weaviate, Flowise, FastAPI, Celery.
                       
         PaaS (Platform As a Service with Multi-tenant strategy) to simplify the relation between 
         Distributors, Brokers, Manufacturers & Final Customers.
